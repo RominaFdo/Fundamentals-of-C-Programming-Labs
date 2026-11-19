@@ -1,3 +1,0 @@
-D:/CLion_projects/cmake-build-debug/CMakeFiles/CLion_projects.dir
-D:/CLion_projects/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CLion_projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
